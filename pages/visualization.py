@@ -542,3 +542,4 @@ with st.sidebar.expander("Example Queries"):
     - How to normalize the data?
     - How to find correlations?
     """)
+
